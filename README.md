@@ -10,7 +10,7 @@ The goal is to transform raw data into a clean and structured format ready for a
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 * SQL Server (SSMS)
 * T-SQL
